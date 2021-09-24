@@ -21,14 +21,6 @@ vless 相比 vmess 性能更加优秀，占用资源更少，运行更加稳定�
 
 `端口` 为 `443` 。
 
-### alterId
-
-`alterId` 为 `0` 。
-
-### UUID
-
-`UUID` 默认为 `3a53a3e5-da83-48d2-aee9-d88a498eb3dd` 可自行设置。
-
 ## 流量中转
 
 可以使用cloudflare的workers来`中转流量`，配置为：  
